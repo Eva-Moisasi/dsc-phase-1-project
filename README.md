@@ -30,6 +30,8 @@ Science Fiction has the higest number of votes in our dataset
 
 The genre with the higest domestic gross is Animation.
 
+![Genre by Averagerating](https://user-images.githubusercontent.com/113707140/201005819-40ef5184-6ef5-406c-af70-146d19b6984d.png)
+
 ## Conclusion
 In conclusion, I would recommend that Microsoft release one of the following 3 movies:
 
