@@ -21,11 +21,15 @@ I utilized three different data from IMDB 'ZippedData' for my analysis in order 
 This project uses exploratory analysis, including correlation between different variables in the data set. This provides a useful insights on the movies dataset
 
 ### Results
-![image1](C:\Users\User\Documents\school\Visuals)
+
+![Genre by Number of Votes](https://user-images.githubusercontent.com/113707140/201005420-5244b06d-30a0-4fca-8732-643f965d49f7.png)
+
 Science Fiction has the higest number of votes in our dataset
 
-![image2](file:///C:/Users/User/Documents/school/Visuals/Genre%20by%20Domestic_gross.html)
- The genre with the higest domestic gross is Animation.
+![Genre by Domestic Gross](https://user-images.githubusercontent.com/113707140/201005487-62ce8c4e-8acc-4a84-ab60-b62a65bc0b4b.png)
+
+The genre with the higest domestic gross is Animation.
+
 ## Conclusion
 In conclusion, I would recommend that Microsoft release one of the following 3 movies:
 
