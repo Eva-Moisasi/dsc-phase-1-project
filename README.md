@@ -42,3 +42,5 @@ In conclusion, I would recommend that Microsoft release one of the following 3 m
 3. Drama films have a positive correlation with most variables like revenue, ratings and number of votes making it,
    a good genre to invest in.
 
+### Next Steps
+Since we have used exploratory data analysis, I would like to work with a larger data set. This will allow use to utilized descriptive statistics as well as visualizations to see trends in the data and isolate key factors for making a successful movie, this will allow us to analyze trends in the movie industry and common attributes such as the best directors to work with and the budget required to create a movie that will do well .
